@@ -1,0 +1,13 @@
+Subir archivo/proyecto a git hub
+- git init
+- git add "Nombre del archivo"  o git add . (añade todo)
+- git status -s (para verificar si se agrego el archivo)
+- git commint -m "Nombre con el que se sube respaldo"
+Entrar a git hub -> nuevo repositorio
+- git remote add origin https://github.com/HeronFlight/CursoGitPil.git
+- git push origin master
+
+Actualizar de local a git hub
+- git add .
+- git commit m-"comentartio"
+- git push -> si no funciona -> git push --set-upstream origin master
