@@ -1,0 +1,14 @@
+- Crear repositorio
+- Agregar archivos al repo
+- Respaldar archivos en repo
+
+git init
+
+git status -s   >>>>>   nos muestra los archivos que tenemos en el staying area y los no seguidos
+
+git commit -m "leyenda del commint"
+
+git log --oneline   >>>>>   muestra los commits que tenemos
+
+git reset
+

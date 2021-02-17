@@ -1,0 +1,21 @@
+- Editar desde GitHub
+- Crear tags
+- Clonación de reposictorio en local
+-------------------------------------
+
+- Editamos los archivo en github con el icono del lápiz y le damos al botón "commint changes"
+- git pull   >>>>>   para traer desde remoto (github) a local (disco duro)
+
+-------------------------------------
+
+- tags: para especificar versiones de nuestro proyecto
+- git tag <nombre> -m "descripción"   >>>>>   para agregar una etiqueta
+- git push --tags   >>>>>   para subirla a github.
+Con el tag creado ya podemos descargar el proyecto en un zip o un tar.gz
+
+-----------------------------------------
+
+- git clone url   >>>>>   para clonar proyecto de github.
+
+
+

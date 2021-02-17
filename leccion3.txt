@@ -1,0 +1,20 @@
+Subir repositorio a GitHub.
+
+git add .   >>>>>   Agrega todos los archivos del directorio.
+
+git commit -am "leyenda del commit"   >>>>>   Agega todos los archivos y hace un commit, dos órdenes en una.
+
+git commit --amend   >>>>>   Abre el editor VIM para modificar descripciones (leyendas) de commit.
+:i   >>>>>   Para empezar a modificar. Después pulsas cualquier tecla, borras la descripción. Pulsas Esc, pones otra vez :i Enter, escribes la nueva descripción y Esc.
+:wq   >>>>>   Para guardar cambios y salir del editor VIM
+
+Subir repositorio a GitHub:
+- Registrarse
+- Crear Repositorio
+- Con linea de comando : git remote add origin https://github.com/HeronFlight/curso_git_pildoras.git
+- Después comando :  git push origin master
+Ya tenemos el repositorio en Github.
+
+
+
+
