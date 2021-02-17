@@ -1,0 +1,12 @@
+
+- RAMAS O BRANCHES
+
+Son lineas de tiempo.
+
+La rama principal se suele llamar master o main.
+Al hacer ramas el proyecto se divide en copias identicas e
+independientes.
+
+- git branch <nombre> -> para crear la rama
+- git branch -> para ver las ramas que tiene el proyecto
+- git checkout <nombre> -> para moverme a la rama creada
