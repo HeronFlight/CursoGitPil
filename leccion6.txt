@@ -1,0 +1,9 @@
+
+Empezamos con Visual Studio Code (VSC).
+
+Recomendable crear espacio de trabajo en cada carpeta
+donde tenemos un proyecto.
+"Guardar área de trabajo como".
+
+Desde la terminal, podemos usar Git, y VSC nos da info sobre
+cómo están los archivos y qué podemos hacer con ellos. 
