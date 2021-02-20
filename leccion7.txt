@@ -1,0 +1,8 @@
+- Crear ramas con VSC
+- git branch -d <nombre>  ->  para borrar una rama
+
+Con VSC podemos graficamente:
+- hacer commits
+- crear rama
+- cambiar de rama
+- fusionar ramas

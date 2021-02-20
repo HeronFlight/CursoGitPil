@@ -10,5 +10,6 @@ independientes.
 - git branch <nombre> -> para crear la rama
 - git branch -> para ver las ramas que tiene el proyecto
 - git checkout <nombre> -> para moverme a la rama creada
-- git merge <nombre de la rama a fusionar> -> fusionar proyectos. Hay que hacerlo desde la rama master.
+- git merge <nombre de la rama a fusionar> -> fusionar proyectos. 
+   Hay que hacerlo desde la rama master.
                                                
