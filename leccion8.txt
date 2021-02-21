@@ -1,0 +1,19 @@
+Trabajar con GitHub desde VSC. Sincronizar VSC con GitHub.
+
+- Crear nuevo repositorio. Lo más importante la URL
+- Abrir VSC
+- Ver/Paleta de Comandos
+- Git clone -> introducimos la URL
+- Seleccionamos la carpeta donde queremos tener el repositorio
+
+-- Con esto nos ha clonado el repositorio de GitHub a local (en carpeta seleccionada)
+
+- Creamos archivos y hacermos un commit, todo desde VSC
+- Pestaña Source Control/Menú de tres puntitos/Push
+
+-- Con esto ya tenemos nuestro proyecto subido a GitHub
+
+- Modificamos un archivo en GitHub y hacemos commit
+- Desde VSC con el boton de sincronizar, abajo a la izquierda en la barra azul,
+   nos hace un pull
+- Igualmente, el proceso inverso, nos hace un push
